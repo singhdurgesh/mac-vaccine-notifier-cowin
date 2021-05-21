@@ -1,1 +1,3 @@
-# mac-vaccine-notifier-cowin
+# Mac Vaccine Notifier Cowin
+
+##
